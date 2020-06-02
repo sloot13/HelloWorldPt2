@@ -1,0 +1,13 @@
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH 2 - Data Types\HelloWorldPt2\HelloWorldPt2\bin\Debug\netcoreapp3.1\HelloWorldPt2.exe
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH 2 - Data Types\HelloWorldPt2\HelloWorldPt2\bin\Debug\netcoreapp3.1\HelloWorldPt2.deps.json
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH 2 - Data Types\HelloWorldPt2\HelloWorldPt2\bin\Debug\netcoreapp3.1\HelloWorldPt2.runtimeconfig.json
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH 2 - Data Types\HelloWorldPt2\HelloWorldPt2\bin\Debug\netcoreapp3.1\HelloWorldPt2.runtimeconfig.dev.json
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH 2 - Data Types\HelloWorldPt2\HelloWorldPt2\bin\Debug\netcoreapp3.1\HelloWorldPt2.dll
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH 2 - Data Types\HelloWorldPt2\HelloWorldPt2\bin\Debug\netcoreapp3.1\HelloWorldPt2.pdb
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH 2 - Data Types\HelloWorldPt2\HelloWorldPt2\obj\Debug\netcoreapp3.1\HelloWorldPt2.csprojAssemblyReference.cache
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH 2 - Data Types\HelloWorldPt2\HelloWorldPt2\obj\Debug\netcoreapp3.1\HelloWorldPt2.AssemblyInfoInputs.cache
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH 2 - Data Types\HelloWorldPt2\HelloWorldPt2\obj\Debug\netcoreapp3.1\HelloWorldPt2.AssemblyInfo.cs
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH 2 - Data Types\HelloWorldPt2\HelloWorldPt2\obj\Debug\netcoreapp3.1\HelloWorldPt2.csproj.CoreCompileInputs.cache
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH 2 - Data Types\HelloWorldPt2\HelloWorldPt2\obj\Debug\netcoreapp3.1\HelloWorldPt2.dll
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH 2 - Data Types\HelloWorldPt2\HelloWorldPt2\obj\Debug\netcoreapp3.1\HelloWorldPt2.pdb
+C:\Users\kevinfranklin46\Documents\launchcode\csharp-practice\CH 2 - Data Types\HelloWorldPt2\HelloWorldPt2\obj\Debug\netcoreapp3.1\HelloWorldPt2.genruntimeconfig.cache

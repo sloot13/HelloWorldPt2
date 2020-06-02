@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HelloWorldPt2/1.0.0": {
+        "runtime": {
+          "HelloWorldPt2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloWorldPt2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

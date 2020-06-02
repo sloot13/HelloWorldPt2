@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZNUatuIlFm2J/wGWdzQz106XQNrWGDqsWdM/JJHm0qtGoycBKaZNGpxqVLUtnStVtk9Kg/fJsraLR9E4/mzRqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevinfranklin46\\Documents\\launchcode\\csharp-practice\\CH 2 - Data Types\\HelloWorldPt2\\HelloWorldPt2\\HelloWorldPt2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevinfranklin46\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
